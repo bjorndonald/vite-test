@@ -1,11 +1,12 @@
 {
     
-        "redirects": [
-            {
-                "source": "/about",
-                "destination": "/about.html",
-                "permanent": true
-            }
-        ]
+        
+            "rewrites": [
+                {
+                    "source": "/about",
+                    "destination": "/about.html"
+                }
+            ]
+        
     
 }
